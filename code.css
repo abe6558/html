@@ -1,0 +1,58 @@
+p {
+    padding:0;
+    margin:0;
+  }
+  
+  #name {
+    padding-top: 130px;
+    padding-bottom: 130px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #hello {
+    font-size: 80px;  
+    font-weight: 900;
+    padding-top: 0px;
+  }
+  
+  #about {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+  }
+    
+  #pictures {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  img {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  #my-quote {
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+  }
+  
+  #favorite {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 30px;  
+    font-weight: 700;  
+  }
+  
+  #quote {
+    padding-top: 40px;
+    font-size: 40px;  
+    font-weight: 700; 
+    padding-bottom: 180px; 
+  }
+  
